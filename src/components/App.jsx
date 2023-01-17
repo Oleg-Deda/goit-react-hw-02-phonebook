@@ -6,7 +6,7 @@ import { Filter } from './Filter/Filter';
 import { ContactsList } from './ContactsList/ContactsList';
 
 import { nanoid } from 'nanoid';
-// import toast, { Toaster } from 'react-hot-toast';
+
 
 const INITIAL_STATE = {
   contacts: [
